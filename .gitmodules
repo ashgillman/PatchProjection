@@ -1,6 +1,6 @@
 [submodule "EigenHelpers"]
 	path = EigenHelpers
-	url = ../EigenHelpers.git
+	url = ../../ashgillman/EigenHelpers.git
 [submodule "ITKHelpers"]
 	path = ITKHelpers
 	url = ../ITKHelpers.git
